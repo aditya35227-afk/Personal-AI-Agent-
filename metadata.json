@@ -1,0 +1,6 @@
+{
+  "name": "Student AI Agent",
+  "description": "Fast, privacy-first personal AI assistant for students with study tools, voice commands, and privacy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
